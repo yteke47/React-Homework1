@@ -1,0 +1,15 @@
+{
+  "name": "react-homeworks",
+  "version": "1.0.0",
+  "description": "react home works npm",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "odev1": "node ./odev1/app.js"
+  },
+  "author": "Yigit Can",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
